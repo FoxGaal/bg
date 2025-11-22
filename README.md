@@ -1,1 +1,1 @@
-# this is just some backgrounds for vencord
+# This is just some backgrounds for vencord
